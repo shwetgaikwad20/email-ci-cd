@@ -6,7 +6,7 @@ SMTP_PORT = 465
 
 EMAIL_FROM = "shwetshailendra.gaikwad@eidiko-india.com"
 EMAIL_TO = "pratham.paunikar@eidiko-india.com"
-EMAIL_PASSWORD = "YOUR_PASSWORD_HERE"
+EMAIL_PASSWORD = "Gaikwad@123"
 
 msg = MIMEText("This email was sent using GitHub Actions CI/CD.")
 msg['Subject'] = "CI/CD Email Test"
