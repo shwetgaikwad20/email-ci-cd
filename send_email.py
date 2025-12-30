@@ -1,6 +1,8 @@
 import smtplib
 from email.mime.text import MIMEText
 
+//commit change 1
+
 SMTP_SERVER = "mail.eidiko-india.com"
 SMTP_PORT = 465
 
